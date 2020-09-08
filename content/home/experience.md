@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Software Developer, Data & Analytics"
+  company = "Royal Bank of Canada"
+  company_url = "www.rbcroyalbank.com"
+  location = "Toronto, Canada"
+  date_start = "2020-05-04"
+  date_end = "2020-08-28"
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  - Designed and developed a data visualization web application directly with the manager, focusing on business insights.
+  -  Worked as a front-end developer to implement all UI features of the project with no delays on each development cycle and 100% performance.
+  -  Integrated user-driven designs into the product and received attention across the RBC technology department.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Python Tutor"
+  company = ""
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Toronto, Canada"
+  date_start = "2018-09-01"
+  date_end = "2018-12-31"
+  description = """
+  Responsibilities include:
+  - Taught the basics of python programming to first year college students.
+  - Maximized student learning through the use of live coding demonstrations.
+  """
 
 +++

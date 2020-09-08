@@ -1,0 +1,12 @@
+# Font style metadata
+name = "my_font"
+
+# Optional Google font URL
+google_fonts = "Playfair+Display|Fauna+One"
+# google_fonts = "Fauna+One"
+
+# Font families
+heading_font = "Playfair Display"
+body_font = "Fauna One"
+nav_font = "Fauna One"
+mono_font = "Fauna One"
