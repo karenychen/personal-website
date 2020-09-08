@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2020-01-16"
   date_end = "2020-01-18"
   description = """
-  NIMO helps the everyday user organize recurring payments through an innovative application that can be easily integrated into RBC's mobile app. 
+  NiMO helps the everyday user organize recurring payments through an innovative application that can be easily integrated into RBC's mobile app. 
   The project won 3rd place for RBC’s innovative digital banking challenge."""
 
 # [[item]]
