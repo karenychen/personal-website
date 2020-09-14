@@ -1,6 +1,6 @@
 ---
 title: Theatre Blocking
-summary: An application that enables patients to perform uroflowmetry tests at home.
+summary: A simple web application that improves the efficiency during the planning stage and rehearsals of a performance.
 tags:
 - Bootstrap
 - Vanilla JS
