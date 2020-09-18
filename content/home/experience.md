@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   - Influenced three large firms including one of the world's leading information services companies to collaborate with RBC by designing and developing a web application that powers a business search engine.
   -  Enhanced existing RBC commercial banking clients' decision-making process by providing analysis of sales trends and real-time transaction data through a web application. 
-  -  Implemented the majority of UI features such as the rendering of search results with \textbf{Bootstrap, jQuery, ChartJS} and \textbf{Datatables} and quickly handled urgent change requests from clients and executives. 
+  -  Implemented the majority of UI features such as the rendering of search results with Bootstrap, jQuery, ChartJS and Datatables and quickly handled urgent change requests from clients and executives. 
   -  Received high recognition from program managers and department directors due to high quality work done in conducting small surveys and integrating user-driven design into the product.
   """
 +++
