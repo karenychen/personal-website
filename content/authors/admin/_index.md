@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Karen
+title: Karen Chen
 
 # Username (this should match the folder name)
 authors:
@@ -67,6 +67,6 @@ email: ""
 
 Karen is currently a third year student majoring in <a href="https://web.cs.toronto.edu" target="_self">Computer Science</a> at the University of Toronto (UofT).
 
-Karen is a quick learner with strong problem-solving skills and a desire to explore the tech industry. She gained valuable programming experience in various programming languages through self-learning, school, non-profit projects and internships. Karen is seeking a challenging role in software engineering and is always eager to learn and take on new challenges. 
+Karen is a quick learner with strong problem-solving skills and a desire to explore the tech industry. Her extensive understanding about clients' needs and the ability to reflect on change requests efficiently during her internship role has earned her manager and coworkers' high recognition as seen in her <a href="https://www.linkedin.com/in/karenychen" target="_self">Linkedin recommendations</a>. Karen is always eager to learn and take on new challenges in the ever-changing software industry. 
 
-Karen is fluent in English, Mandarin and Cantonese.
+Karen is currently seeking Software Engineering Internship opportunities for Summer 2021.

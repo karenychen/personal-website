@@ -26,22 +26,9 @@ date_format = "Jan 2006"
   date_end = "2020-08-28"
   description = """
   Responsibilities include:
-  - Designed and developed a data visualization web application directly with the manager, focusing on business insights.
-  -  Worked as a front-end developer to implement all UI features of the project with no delays on each development cycle and 100% performance.
-  -  Integrated user-driven designs into the product and received attention across the RBC technology department.
+  - Influenced three large firms including one of the world's leading information services companies to collaborate with RBC by designing and developing a web application that powers a business search engine.
+  -  Enhanced existing RBC commercial banking clients' decision-making process by providing analysis of sales trends and real-time transaction data through a web application. 
+  -  Implemented the majority of UI features such as the rendering of search results with \textbf{Bootstrap, jQuery, ChartJS} and \textbf{Datatables} and quickly handled urgent change requests from clients and executives. 
+  -  Received high recognition from program managers and department directors due to high quality work done in conducting small surveys and integrating user-driven design into the product.
   """
-
-[[experience]]
-  title = "Python Tutor"
-  company = ""
-  company_url = ""
-  location = "Toronto, Canada"
-  date_start = "2018-09-01"
-  date_end = "2018-12-31"
-  description = """
-  Responsibilities include:
-  - Taught the basics of python programming to first year college students.
-  - Maximized student learning through the use of live coding demonstrations.
-  """
-
 +++
